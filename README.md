@@ -30,5 +30,3 @@ jupyter notebook *.ipynb
 - `NN.ipynb`: **MNIST 97.19%**
 - `NN_alternative.ipynb`: CIFAR10 49.84%
 - `bestmdl.keras`: Saved models
-
-**Complete coursework-ready MLP baseline (97% MNIST).**

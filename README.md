@@ -20,12 +20,6 @@ Compact MLP classifiers for MNIST/CIFAR10 digit recognition (784→10 params).
 - Training curves + single-image test
 - 90/10 split, batch=128
 
-## Run
-```bash
-pip install tensorflow scikit-learn matplotlib jupyter
-jupyter notebook *.ipynb
-```
-
 ## Files
 - `NN.ipynb`: **MNIST 97.19%**
 - `NN_alternative.ipynb`: CIFAR10 49.84%
